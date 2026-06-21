@@ -1,13 +1,21 @@
+# SKAT-ESP32-Tenzo
+
    <p align="center">
     <img width="424" height="328" alt="logo" src="https://github.com/user-attachments/assets/2b95117b-c882-490f-a745-172cd4435e66" />
    </p>
 
-# SKAT-ESP32-Tenzo
 
 Прошивка контроллера стенда **SKAT-Tenzo**: измерение силы тяги (HX711), тока и напряжения шины (INA226), управление приводами по стандартному RC-PWM и передача телеметрии по **Bluetooth LE**.
 
+   <p align="center">
+      <img width="120" alt="1c17dfc4-eb51-4f38-a880-5441b35caf84" src="https://github.com/user-attachments/assets/707d7225-9f5f-47b2-bdc3-d9fe7e74d4d6" />
+   </p>
+   
 Сопутствующее Android-приложение для мониторинга и управления: [SKAT-Load-cell](https://github.com/reduct0r/SKAT-Load-cell)
-
+   <p align="center">
+      <img width="360" alt="screen" src="https://github.com/user-attachments/assets/6e64f191-4e6e-4703-985d-b9c64c0870c0" />
+   </p>
+   
 ---
 
 ## Содержание
