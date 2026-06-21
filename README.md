@@ -1,3 +1,7 @@
+   <p align="center">
+    <img width="424" height="328" alt="logo" src="https://github.com/user-attachments/assets/2b95117b-c882-490f-a745-172cd4435e66" />
+   </p>
+
 # SKAT-ESP32-Tenzo
 
 Прошивка контроллера стенда **SKAT-Tenzo**: измерение силы тяги (HX711), тока и напряжения шины (INA226), управление приводами по стандартному RC-PWM и передача телеметрии по **Bluetooth LE**.
